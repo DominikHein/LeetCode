@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{F21FB058-925D-408D-A791-960D06A20798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21FB058-925D-408D-A791-960D06A20798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21FB058-925D-408D-A791-960D06A20798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21FB058-925D-408D-A791-960D06A20798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21FB058-925D-408D-A791-960D06A20798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA17417-3BDE-4F27-81AA-BE9EF938201B}
+	EndGlobalSection
+EndGlobal
